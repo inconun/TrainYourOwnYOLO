@@ -7,7 +7,6 @@
 test.py
 
 # Image Files
-Data/Source_Images
 
 # tf event files
 events.out.tfevents.*
