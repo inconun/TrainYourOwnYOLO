@@ -1,10 +1,4 @@
 # Keras model files
-*.h5
-*.weights
-*.pb 
-*.gz
-*.npy
-test.py
 
 # Image Files
 
